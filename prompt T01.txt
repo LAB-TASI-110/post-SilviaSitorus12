@@ -1,0 +1,33 @@
+Aku memiliki tugas T01.
+Aku mau kamu bertindak sebagai Junior Programming yang menerapkan system OOP.
+Suatu case permasalah dimana terdapat 2 mahasiswa yang ingin mengirimkan barang kekampung mereka dikarenakan terdapat dus besar di asrama yang berisi barang barang mereka.
+Dikampus mereka terdapat jasa pengiriman baru Namanya adalah DEL Express yang dimana menggunakan system yang transparan dan perhitungannya otomatis.
+saat mereka berjalan kesana mereka melihat daftar ongkos kirim per kilogram ke beberapa kota tujuan, yaitu :
+1. Kota Medan 8000/Kg dengan kode kota MDN dan keterangan dalam pulau
+2. Kota Balige 5000/Kg dengan kode kota BLG dan keterangan dalam pulau
+3. Kota Jakarta 12000/Kg dengan kode kota JKT dan keterangan luar pulau
+4. Kota Surabaya 13000/Kg dengan kode kota SBY dan keterangan luar pulau
+namun tidak jauh dari daftar ongkos tersebut mereka melihat poster promo,denga  ketentuannya sebagai berikut :
+1.Total berat pengiriman lebih dari 10kg promo yang didapatkan adalah maka diskon ongkir sebesar 10%
+2. Pengiriman ke kota luar pulau promo yang didapatkan adalah mendapatkan asuransi gratis
+Saat petugas menimbang paket mereka bahwa butet paketnya 1kg dan ucok 3/2 kali paket si butet 
+petugas del express hanya memberitahu bahwa kalua mereka menghitungnya dengan otomatis hanya memasukkan kode kota tujuan serta berat paket.
+Input yang saya masukkan nanti akan 
+MDN
+5
+JKT
+3
+BLG
+4
+END
+dan output yang akan digunakan :
+Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh,
+saya membutuhkan Bahasa java yang digunakan dan dikerjakan di vscode
+
+apakah tidak menggunakan model?
+
+tolong berikan saya lengkap isi dari model dan juga driver yang saya butuhkan sesuai dengan prompt yang saya minta
+
+apakah bisa modelnya 1 tapi digabung semua?
+
+tolong beritahu saya dimana kesalahannya ini makanya terus begini

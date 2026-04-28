@@ -1,0 +1,32 @@
+Aku memiliki tugas T02
+Aku mau kamu bertindak sebagai Senior Programming yang dapat menerapkan OOP didalam tugas ini. 
+Untuk tugas kali ini, terdapat sebuah toko yang memiliki Gudang untuk menyimpan stok stok barang yang akan dijualnya. Jadi tugas kamu membuat program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+Jadi, terdapat 4 kategori barang :
+1. Minyak 120pcs dengan kode barang MYK
+2. Rok Pramuka 5pcs dengan kode barang RPK
+3. Gula 85pcs dengan kode barang GLA
+4. Dasi SD 22pcs dengan kode barang DSD
+Dimana saya ingin kamu mengerjakan tugas ini menggunakan Bahasa Java di lingkungan eksekusi Visual Studio Code saya mau code Java memiliki 1 driver dan 1 model.
+Ketika saya input :
+1. Jumlah total data (N) 
+2. Deret Stok (s1,s2,...,sN)
+3. Kode kategori barang
+Maka kamu harus dapat menentukan total stok hanya untuk kategori barang yang diminta. 
+Tugas kamu disini hanya untuk menentukan total stok barang saja.
+Buatlah code Java dengan benar, terstruktur dan jelas. Sebelum kamu memulai untuk membuat kodenya apakah ada hal yang ingin kamu tanyakan atau belum lengkap?
+
+ 
+ 1. Format Input untuk Deret Stok hanya untuk kategori barang yang diminta saja
+2. Stok awal (120, 5, 85, 22) itu digunakan untuk stok di gudang
+3. Output yang diinginkan :
+ - kita ketikan MYK maka langsung keluar stoknya
+
+ tolong berikan kode terbaru dimana main.java penamaannya adalah Driver2.java dan Gudang.java penamaanya addalah model2.java
+
+ C:\Users\ROG STRIX\Downloads\Web Porto Silvi\post-SilviaSitorus12>javac src/model/*.java src/driver/*.java -d bin
+src\model\Model2.java:3: error: class model2 is public, should be declared in a file named model2.java
+public class model2 {
+       ^
+1 error
+
+Tolong berikan code yang clean

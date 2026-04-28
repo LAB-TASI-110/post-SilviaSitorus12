@@ -1,0 +1,37 @@
+Buatlah sebuah system yang dapat mendukyng operasional kafetaria IT DEL.
+Dimana saya ingin kamu bertindak sebagai Java Developer yang dapat membantu saya membuat system yang mendukung operasional kafetaria IT DEL berbasis OOP.
+Sebuah kafetaria dalam usaha ini menjual makanan dan minuman dan dapat memesannya melalui WhatsApp.
+Terdapat beberapa menu yang ada di kafetaria :
+Makanan :
+1. Bakwan dengan Harga 10.000/porsi
+2. Tempe dengan Harga 10.000/porsi
+3. Kentang Goreng dengan Harga 15.000/porsi
+4. Roti Isi Ayam 15.000/porsi
+5. Tahu 10.000/porsi
+Minuman :
+1. Capucinno 8.000/cup
+2. Chocolatos 8.000/cup
+3. Matcha 8.000/cup
+Bila membeli makanan dari kafetaria diatas 40.000 mendapatkan diskon 5.000 dan jika sudah memesan makanan di kafetaria akan menampilkan "Selamat Menikmati" di system
+Sistem ini untuk memesan makanan dan system juga akan otomatis membuat diskon yang sesuai dengan ketentuan yang ada di kafetaria ini.
+
+Langkah pertama yang akan dilakukan system akan meminta Nama pelanggan, Profesi/job desk Dosen/Staff/Mahasiswa, List Pesanan begitu juga dengan atribut lainnya yang sesuai dengan format yang ada pada java kemudia nantti output yang akan dikeluarkan seperi Nama| List Makanan | Diskon | Total
+Saya mau menggunakan Bahasa java dengan lingkungan eksekusi VsCode
+ 
+
+ didalam code ini saya hanya membutuhkan Model3.java dan Driver3.java
+
+
+ C:\Users\ROG STRIX\Downloads\Web Porto Silvi>cd ..
+
+C:\Users\ROG STRIX\Downloads>javac src/model/*.java src/driver/*.java -d bin
+error: Invalid filename: src/model/*.java
+Usage: javac <options> <source files>
+use --help for a list of possible options
+
+C:\Users\ROG STRIX\Downloads>
+tolong beritahu saya kenapa ini menajdi seperti ini
+
+(mengirimkan gambar)apa yang menyebabkan ini salah, sepertinya struktur filenya sudah
+
+tolong berikan clean codenya
